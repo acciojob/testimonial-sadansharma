@@ -11,10 +11,13 @@
 	border:1px solid;
 	border-color:gray;
 	font-size:10px;
+	
+	Background-color:white;
 }
 .author{
-	margin-left:450px;
+	
+	Text-align:right;
 	padding-top:-20px;
-	font:italic;
+	Font-style:italic;
 }
 
